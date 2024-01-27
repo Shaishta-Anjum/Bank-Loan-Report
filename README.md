@@ -6,7 +6,7 @@ The Bank Loan Report project aims to develop an insightful analysis tool for mon
 **Objective:**
 The objective of the Bank Loan Report project is to provide detailed insights into crucial loan metrics over time, enabling stakeholders to gauge the health of the loan portfolio and identify trends to inform lending strategies effectively.
 
-**Key Metrics:**
+## Key Metrics:
 1. **Total Loan Applications**: Number of loan applications received within a specified period, indicating demand for loans.
 2. **Total Funded Amount**: Aggregate amount of funds disbursed as loans, reflecting the extent of lending activity.
 3. **Total Amount Received**: Cumulative amount received from borrowers, essential for assessing cash flow and loan repayment.
@@ -15,10 +15,10 @@ The objective of the Bank Loan Report project is to provide detailed insights in
 6. **Good Loan Metrics**: Measure performance of 'Good Loans' including application percentage, funded amount, and total received amount.
 7. **Bad Loan Metrics**: Measure performance of 'Bad Loans' including application percentage, funded amount, and total received amount.
 
-**Dashboard Overview:**
+## Dashboard Overview:
 1. **Summary Dashboard**: Provides an overview of key loan metrics and performance indicators.
- ![]()  
+ ![](https://github.com/Shaishta-Anjum/Bank-Loan-Report/blob/main/Images/Screenshot%202024-01-27%20220224.png?raw=true)  
 2. **Overview Dashboard**: Visualizes critical loan-related metrics and trends using various chart types.
- ![]()  
+ ![](https://github.com/Shaishta-Anjum/Bank-Loan-Report/blob/main/Images/Screenshot%202024-01-27%20221520.png?raw=true)  
 3. **Details Dashboard**: Offers a comprehensive view of essential loan data, including borrower profiles and loan performance.
- ![]()  
+ ![](https://github.com/Shaishta-Anjum/Bank-Loan-Report/blob/main/Images/Screenshot%202024-01-27%20221553.png?raw=true)  
