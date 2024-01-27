@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Shaishta-Anjum/Bank-Loan-Report/main/Images/small-finance-banks-thinking-big-likely-to-switch-on-the-ma-mode.webp" alt="Image">
+</div>
+
 # Bank Loan Report
 
 **Description:**
